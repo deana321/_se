@@ -1,5 +1,7 @@
 # HW4：分支、合併、Fork、Pull Request 實作紀錄
 
+使用opencode協助
+
 ## 我的三個連結
 
 * 母專案：https://github.com/nqusc/115se/commits/main
