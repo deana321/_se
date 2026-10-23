@@ -1,0 +1,16 @@
+target/
+node_modules/
+dist/
+*.db
+*.db-journal
+reports/*.json
+!reports/.gitkeep
+__pycache__/
+.pytest_cache/
+.venv/
+playwright-report/
+test-results/
+*.log
+.env
+sololife.db
+test.db
